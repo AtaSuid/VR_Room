@@ -615,3 +615,341 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.02-22.46.49:731][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2020.05.02-22.46.49:732][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.05.02-22.46.49:744][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-22.50.16:323][296]LogSlate: Window 'New Level' being destroyed
+[2020.05.02-22.50.16:327][296]LightingResults: New page: Lighting Build
+[2020.05.02-22.50.16:328][296]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-22.50.16:328][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.02-22.50.16:328][296]MapCheck: New page: Map Check
+[2020.05.02-22.50.16:328][296]LightingResults: New page: Lighting Build
+[2020.05.02-22.50.16:350][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.05.02-22.50.16:352][296]LogAIModule: Creating AISystem for world Untitled
+[2020.05.02-22.50.16:355][296]LoadErrors: New page: New Map
+[2020.05.02-22.50.33:318][762]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.05.02-22.51.03:068][319]LogEditorViewport: Clicking Background
+[2020.05.02-22.51.08:284][940]LogEditorViewport: Clicking Background
+[2020.05.02-22.51.26:261][887]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.05.02-22.52.01:045][ 20]LogEditorViewport: Clicking Background
+[2020.05.02-22.52.14:548][631]LogEditorViewport: Clicking Background
+[2020.05.02-22.53.00:499][105]LogEditorViewport: Clicking Background
+[2020.05.02-22.57.49:520][107]LogEditorViewport: Clicking Background
+[2020.05.02-22.58.08:464][374]LogEditorViewport: Clicking Background
+[2020.05.02-22.58.20:808][846]LogEditorViewport: Clicking Background
+[2020.05.02-22.58.33:049][309]LogEditorViewport: Clicking Background
+[2020.05.02-22.58.39:258][ 49]LogEditorViewport: Clicking Background
+[2020.05.02-22.58.45:469][789]LogEditorViewport: Clicking Background
+[2020.05.02-22.59.08:003][475]LogEditorViewport: Clicking Background
+[2020.05.02-23.00.05:571][869]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-23.00.10:663][895]LogEditorViewport: Clicking Background
+[2020.05.02-23.00.15:095][422]LogEditorViewport: Clicking Background
+[2020.05.02-23.00.17:591][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.05.02-23.00.17:592][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.02-23.00.17:602][714]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Untitled_1_Auto15A2FEF114299BAEA7BFCD7847B8B98F5.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2020.05.02-23.00.17:603][714]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.033
+[2020.05.02-23.00.17:603][714]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.033
+[2020.05.02-23.00.22:146][253]LogEditorViewport: Clicking Background
+[2020.05.02-23.01.22:121][383]LogEditorViewport: Clicking Background
+[2020.05.02-23.01.31:291][468]LogEditorViewport: Clicking Background
+[2020.05.02-23.01.45:369][141]LogEditorViewport: Clicking Background
+[2020.05.02-23.02.13:435][481]LogEditorViewport: Clicking Background
+[2020.05.02-23.02.40:276][689]LogEditorViewport: Clicking Background
+[2020.05.02-23.02.58:535][875]Cmd: EDIT COPY
+[2020.05.02-23.02.59:773][ 23]Cmd: EDIT PASTE
+[2020.05.02-23.03.24:148][928]LogEditorViewport: Clicking Background
+[2020.05.02-23.03.32:389][915]LogEditorViewport: Clicking Background
+[2020.05.02-23.04.16:893][220]LogEditorViewport: Clicking Background
+[2020.05.02-23.10.17:501][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.02-23.10.17:502][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.02-23.10.17:514][407]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Untitled_1_Auto22B2A03D64EE923571A756281ABE9F8DA.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto2.umap'
+[2020.05.02-23.10.17:515][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.034
+[2020.05.02-23.10.17:515][407]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.034
+[2020.05.02-23.21.40:779][376]LogEditorViewport: Clicking Background
+[2020.05.02-23.21.47:376][163]Cmd: EDIT COPY
+[2020.05.02-23.21.47:838][218]Cmd: EDIT PASTE
+[2020.05.02-23.22.40:288][453]Cmd: TRANSACTION UNDO
+[2020.05.02-23.22.40:288][453]LogEditorTransaction: Undo Set Location
+[2020.05.02-23.22.55:355][208]LogEditorViewport: Clicking Background
+[2020.05.02-23.23.09:812][921]Cmd: EDIT COPY
+[2020.05.02-23.23.10:413][993]Cmd: EDIT PASTE
+[2020.05.02-23.23.27:189][993]Cmd: TRANSACTION UNDO
+[2020.05.02-23.23.27:189][993]LogEditorTransaction: Undo Set Rotation
+[2020.05.02-23.23.31:336][443]LogEditorViewport: Clicking Background
+[2020.05.02-23.23.39:544][421]LogEditorViewport: Clicking Background
+[2020.05.02-23.24.39:576][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.05.02-23.24.39:578][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.02-23.24.39:591][566]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Untitled_1_Auto35481A50544FA4535B50DBEBFA45308BE.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto3.umap'
+[2020.05.02-23.24.39:592][566]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.035
+[2020.05.02-23.24.39:592][566]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.035
+[2020.05.02-23.46.26:851][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.05.02-23.46.26:853][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.02-23.46.26:871][299]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Untitled_1_Auto400E894F046D605A3BB72128FD690BA03.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2020.05.02-23.46.26:873][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.044
+[2020.05.02-23.46.26:873][299]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.044
+[2020.05.02-23.46.54:877][761]Cmd: EDIT PASTE
+[2020.05.02-23.46.54:882][761]LogLinker: Failed to load '/Game/FreeFurniturePack/Meshes/SM_Modern_Office_chair': Can't find file.
+[2020.05.02-23.46.54:883][761]LogLinker: Failed to load '/Game/FreeFurniturePack/Meshes/SM_Modern_Office_chair': Can't find file.
+[2020.05.02-23.46.54:883][761]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FreeFurniturePack/Meshes/SM_Modern_Office_chair.SM_Modern_Office_chair"''
+[2020.05.02-23.46.57:540][ 77]Cmd: EDIT PASTE
+[2020.05.02-23.46.57:545][ 77]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FreeFurniturePack/Meshes/SM_Modern_Office_chair.SM_Modern_Office_chair"''
+[2020.05.02-23.46.58:066][137]Cmd: EDIT PASTE
+[2020.05.02-23.46.58:071][137]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/FreeFurniturePack/Meshes/SM_Modern_Office_chair.SM_Modern_Office_chair"''
+[2020.05.02-23.47.53:791][101]LogSlate: Took 0.003790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.02-23.48.00:853][938]Cmd: DELETE
+[2020.05.02-23.48.00:853][938]Cmd: ACTOR DELETE
+[2020.05.02-23.48.00:854][938]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.02-23.48.00:872][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.05.02-23.48.00:874][938]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.05.02-23.48.02:068][ 80]Cmd: DELETE
+[2020.05.02-23.48.02:068][ 80]Cmd: ACTOR DELETE
+[2020.05.02-23.48.02:070][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.02-23.48.02:089][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.05.02-23.48.02:090][ 80]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.05.02-23.48.03:042][193]Cmd: DELETE
+[2020.05.02-23.48.03:042][193]Cmd: ACTOR DELETE
+[2020.05.02-23.48.03:044][193]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.02-23.48.03:063][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.05.02-23.48.03:063][193]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.05.02-23.49.18:678][134]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.05.02-23.52.45:421][645]Cmd: DELETE
+[2020.05.02-23.52.45:421][645]Cmd: ACTOR DELETE
+[2020.05.02-23.52.45:423][645]LogEditorActor: Deleted Actor: Character
+[2020.05.02-23.52.45:444][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.05.02-23.52.45:445][645]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.05.02-23.56.27:508][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.05.02-23.56.27:509][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.05.02-23.56.27:523][236]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Untitled_1_Auto5A7C1D3E8495CEA21D2E56588FBE10659.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Temp/Untitled_1_Auto5.umap'
+[2020.05.02-23.56.27:524][236]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.035
+[2020.05.02-23.56.27:524][236]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.035
+[2020.05.03-00.05.30:510][157]LogEditorViewport: Clicking Background
+[2020.05.03-00.05.31:572][284]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.31:572][284]LogEditorTransaction: Undo Clicking Background
+[2020.05.03-00.05.32:050][298]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.32:050][298]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.32:919][399]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.32:919][399]LogEditorTransaction: Undo Delete Actors
+[2020.05.03-00.05.33:233][431]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.33:233][431]LogEditorTransaction: Undo Create Actors
+[2020.05.03-00.05.33:690][482]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.33:690][482]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.34:085][526]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.34:085][526]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.34:492][573]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.34:492][573]LogEditorTransaction: Undo Set Material
+[2020.05.03-00.05.34:948][625]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.34:948][625]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.35:350][671]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.35:350][671]LogEditorTransaction: Undo Set Material
+[2020.05.03-00.05.35:764][717]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.35:764][717]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.36:156][760]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.36:156][760]LogEditorTransaction: Undo Set Material
+[2020.05.03-00.05.36:605][811]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.36:605][811]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.37:055][862]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.37:055][862]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.37:455][908]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.37:455][908]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.03-00.05.37:905][959]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.37:905][959]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.38:288][  2]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.38:289][  2]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.38:738][ 54]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.38:738][ 54]LogEditorTransaction: Undo Set Material
+[2020.05.03-00.05.39:555][149]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.39:556][149]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.40:414][249]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.40:414][249]LogEditorTransaction: Undo Set Material
+[2020.05.03-00.05.41:139][334]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.41:139][334]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.43:631][630]LogEditorViewport: Clicking Background
+[2020.05.03-00.05.47:511][ 95]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.47:511][ 95]LogEditorTransaction: Undo Clicking Background
+[2020.05.03-00.05.48:783][200]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.48:783][200]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.50:023][345]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.50:023][345]LogEditorTransaction: Undo Select Brush Surface
+[2020.05.03-00.05.51:015][464]Cmd: TRANSACTION UNDO
+[2020.05.03-00.05.51:015][464]LogEditorTransaction: Undo Delete Actors
+[2020.05.03-00.05.58:622][368]LogEditorViewport: Clicking Background
+[2020.05.03-00.07.33:902][310]LogSlate: Window 'Save Level As' being destroyed
+[2020.05.03-00.07.33:947][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.05.03-00.07.33:962][310]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Small_2-4987D20EB48CF0AD554D977BEF0E5F91A.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Content/VirtualRealityBP/Maps/Small_2-4.umap'
+[2020.05.03-00.07.33:991][310]LogFileHelpers: Saving map 'Small_2-4' took 0.083
+[2020.05.03-00.07.33:994][310]AssetCheck: New page: Asset Save: Small_2-4
+[2020.05.03-00.07.33:995][310]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Small_2-4.Small_2-4
+[2020.05.03-00.09.52:803][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.05.03-00.25.50:125][ 58]LogHttp: Warning: 0000028F322AF240: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF1A5C685-4ABA-7A7B-6D8B-6392882113D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=569854ce41e0d7a1f089c9939db70389%7C05633d2962434c7aadd2cc685c83fe01%7Cb242af28-536b-47bf-9c27-0a1363da26b4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.03-00.25.50:125][ 58]LogHttp: Warning: 0000028F322AF240: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.03-00.25.50:125][ 58]LogHttp: Warning: 0000028F322AF240: libcurl info message cache 0 (Connection 30 seems to be dead!)
+[2020.05.03-00.25.50:125][ 58]LogHttp: Warning: 0000028F322AF240: libcurl info message cache 1 (Closing connection 30)
+[2020.05.03-00.25.50:125][ 58]LogHttp: Warning: 0000028F322AF240: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.03-00.25.50:125][ 58]LogHttp: Warning: 0000028F322AF240: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.03-00.25.50:125][ 58]LogHttp: Warning: 0000028F322AF240: libcurl info message cache 4 (Closing connection 31)
+[2020.05.03-00.25.50:125][ 58]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF1A5C685-4ABA-7A7B-6D8B-6392882113D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=569854ce41e0d7a1f089c9939db70389%7C05633d2962434c7aadd2cc685c83fe01%7Cb242af28-536b-47bf-9c27-0a1363da26b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.03-00.56.49:997][988]LogHttp: Warning: 0000028F322AF100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF1A5C685-4ABA-7A7B-6D8B-6392882113D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=569854ce41e0d7a1f089c9939db70389%7C05633d2962434c7aadd2cc685c83fe01%7Cb242af28-536b-47bf-9c27-0a1363da26b4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.03-00.56.49:997][988]LogHttp: Warning: 0000028F322AF100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.03-00.56.49:997][988]LogHttp: Warning: 0000028F322AF100: libcurl info message cache 0 (Connection 43 seems to be dead!)
+[2020.05.03-00.56.49:997][988]LogHttp: Warning: 0000028F322AF100: libcurl info message cache 1 (Closing connection 43)
+[2020.05.03-00.56.49:997][988]LogHttp: Warning: 0000028F322AF100: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.03-00.56.49:997][988]LogHttp: Warning: 0000028F322AF100: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.03-00.56.49:997][988]LogHttp: Warning: 0000028F322AF100: libcurl info message cache 4 (Closing connection 44)
+[2020.05.03-00.56.49:997][988]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF1A5C685-4ABA-7A7B-6D8B-6392882113D2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=569854ce41e0d7a1f089c9939db70389%7C05633d2962434c7aadd2cc685c83fe01%7Cb242af28-536b-47bf-9c27-0a1363da26b4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.03-01.06.53:593][710]Cmd: DELETE
+[2020.05.03-01.06.53:593][710]Cmd: ACTOR DELETE
+[2020.05.03-01.06.53:595][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.03-01.06.53:617][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.05.03-01.06.53:619][710]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.05.03-01.08.22:853][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.05.03-01.08.22:875][901]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Small_2-4_Auto60F095E3546F7A2352008009B9F076286.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Game/VirtualRealityBP/Maps/Small_2-4_Auto6.umap'
+[2020.05.03-01.08.22:880][901]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Small_2-4' took 0.047
+[2020.05.03-01.08.22:880][901]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.047
+[2020.05.03-01.17.56:426][ 55]LogActorFactory: Actor Factory created TemplateFloor
+[2020.05.03-01.18.03:108][851]LogActorFactory: Actor Factory created TemplateFloor
+[2020.05.03-01.18.37:819][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.05.03-01.18.52:405][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.05.03-01.20.08:168][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.05.03-01.20.08:207][895]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Small_2-4_Auto7C8410BFC467921FCCE57DCA533069AB7.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Game/VirtualRealityBP/Maps/Small_2-4_Auto7.umap'
+[2020.05.03-01.20.08:208][895]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Small_2-4' took 0.060
+[2020.05.03-01.20.08:208][895]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.060
+[2020.05.03-01.22.40:220][212]LogDirectoryWatcher: A directory notification failed for 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.05.03-01.22.40:220][212]LogDirectoryWatcher: A directory notification failed for 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Content/Developers/ghost/Collections/' because it could not be accessed. Aborting watch request...
+[2020.05.03-01.22.40:248][214]LogDirectoryWatcher: A directory notification failed for 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.05.03-01.22.53:048][677]LogActorFactory: Actor Factory created SM_Modern_Office_chair
+[2020.05.03-01.22.55:760][986]LogActorFactory: Actor Factory created SM_Modern_Office_chair
+[2020.05.03-01.23.07:794][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.05.03-01.23.08:751][504]Cmd: DELETE
+[2020.05.03-01.23.08:751][504]Cmd: ACTOR DELETE
+[2020.05.03-01.23.08:752][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.03-01.23.08:771][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.05.03-01.23.08:774][504]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.05.03-01.23.49:979][350]LogTexture: Display: Building textures: T_Coffee_Table_M (AutoDXT, 1024X1024)
+[2020.05.03-01.23.49:979][350]LogStaticMesh: Building static mesh SM_Coffee_Table...
+[2020.05.03-01.23.50:030][350]LogStaticMesh: Built static mesh [0.05s] /Game/FreeFurniturePack/Meshes/SM_Coffee_Table.SM_Coffee_Table
+[2020.05.03-01.23.50:046][350]LogMaterial: Display: Missing cached shader map for material M_Coffee_Table, compiling. 
+[2020.05.03-01.23.50:140][350]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.05.03-01.23.50:140][350]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.03-01.23.50:140][350]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.03-01.23.50:140][350]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.03-01.23.50:264][359]LogActorFactory: Actor Factory created SM_Coffee_Table
+[2020.05.03-01.23.51:214][425]LogActorFactory: Actor Factory created SM_Coffee_Table
+[2020.05.03-01.24.30:174][589]LogTexture: Display: Building textures: T_Round_table_m_r_ao (AutoDXT, 2048X2048)
+[2020.05.03-01.24.30:174][589]LogTexture: Display: Building textures: T_Round_table_a (AutoDXT, 2048X2048)
+[2020.05.03-01.24.30:174][589]LogTexture: Display: Building textures: T_Round_table_n (BC5, 2048X2048)
+[2020.05.03-01.24.30:174][589]LogStaticMesh: Building static mesh SM_Classic_Round_Table...
+[2020.05.03-01.24.30:216][589]LogStaticMesh: Built static mesh [0.04s] /Game/FreeFurniturePack/Meshes/SM_Classic_Round_Table.SM_Classic_Round_Table
+[2020.05.03-01.24.30:444][589]LogMaterial: Display: Missing cached shader map for material M_Round_table, compiling. 
+[2020.05.03-01.24.30:469][589]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.05.03-01.24.30:469][589]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.03-01.24.30:469][589]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.03-01.24.30:469][589]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.03-01.24.30:472][589]LogActorFactory: Actor Factory created SM_Classic_Round_Table
+[2020.05.03-01.24.31:206][660]LogActorFactory: Actor Factory created SM_Classic_Round_Table
+[2020.05.03-01.24.32:284][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Coffee_Table)
+[2020.05.03-01.24.35:151][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Round_Table)
+[2020.05.03-01.24.41:248][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Coffee_Table)
+[2020.05.03-01.24.43:919][ 90]Cmd: DELETE
+[2020.05.03-01.24.43:919][ 90]Cmd: ACTOR DELETE
+[2020.05.03-01.24.43:920][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.03-01.24.43:940][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.05.03-01.24.43:945][ 90]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.05.03-01.24.48:799][415]LogTexture: Display: Building textures: T_Classic_table_a (AutoDXT, 2048X2048)
+[2020.05.03-01.24.48:799][415]LogTexture: Display: Building textures: T_Classic_table_n (BC5, 2048X2048)
+[2020.05.03-01.24.48:799][415]LogTexture: Display: Building textures: T_Classic_table_m_r_ao (AutoDXT, 2048X2048)
+[2020.05.03-01.24.48:799][415]LogMaterial: Display: Missing cached shader map for material M_Classic_table, compiling. 
+[2020.05.03-01.24.48:841][415]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.05.03-01.24.48:841][415]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.03-01.24.48:842][415]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.03-01.24.48:842][415]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.03-01.24.48:842][415]LogStaticMesh: Building static mesh SM_Classic_table...
+[2020.05.03-01.24.48:903][415]LogStaticMesh: Built static mesh [0.06s] /Game/FreeFurniturePack/Meshes/SM_Classic_table.SM_Classic_table
+[2020.05.03-01.24.51:117][671]LogActorFactory: Actor Factory created SM_Classic_table
+[2020.05.03-01.24.53:310][896]LogActorFactory: Actor Factory created SM_Classic_table
+[2020.05.03-01.25.12:887][175]LogTexture: Display: Building textures: T_Old_Table_a (AutoDXT, 4096X4096)
+[2020.05.03-01.25.12:887][175]LogTexture: Display: Building textures: T_Old_table_m_r_ao (AutoDXT, 4096X4096)
+[2020.05.03-01.25.12:887][175]LogTexture: Display: Building textures: T_Old_Table_n (BC5, 4096X4096)
+[2020.05.03-01.25.12:887][175]LogMaterial: Display: Missing cached shader map for material M_Old_Table, compiling. 
+[2020.05.03-01.25.12:926][175]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.05.03-01.25.12:926][175]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.03-01.25.12:926][175]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.03-01.25.12:926][175]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.03-01.25.12:926][175]LogStaticMesh: Building static mesh SM_Old_Table...
+[2020.05.03-01.25.12:975][175]LogStaticMesh: Built static mesh [0.05s] /Game/FreeFurniturePack/Meshes/SM_Old_Table.SM_Old_Table
+[2020.05.03-01.25.13:007][175]LogActorFactory: Actor Factory created SM_Old_Table
+[2020.05.03-01.25.13:486][201]LogActorFactory: Actor Factory created SM_Old_Table
+[2020.05.03-01.25.15:701][358]LogActorFactory: Actor Factory created SM_Old_Table
+[2020.05.03-01.25.16:751][455]LogActorFactory: Actor Factory created SM_Old_Table
+[2020.05.03-01.25.46:752][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Old_Table)
+[2020.05.03-01.25.46:960][997]Cmd: DELETE
+[2020.05.03-01.25.46:960][997]Cmd: ACTOR DELETE
+[2020.05.03-01.25.46:960][997]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.03-01.25.46:980][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.05.03-01.25.46:986][997]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.05.03-01.25.49:356][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Round_Table)
+[2020.05.03-01.25.50:162][372]Cmd: DELETE
+[2020.05.03-01.25.50:162][372]Cmd: ACTOR DELETE
+[2020.05.03-01.25.50:163][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.03-01.25.50:181][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.05.03-01.25.50:182][372]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2020.05.03-01.25.53:358][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_table)
+[2020.05.03-01.26.39:927][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_table)
+[2020.05.03-01.27.12:948][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair)
+[2020.05.03-01.27.26:172][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_table)
+[2020.05.03-01.28.06:242][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair)
+[2020.05.03-01.28.14:227][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_table)
+[2020.05.03-01.28.17:153][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair)
+[2020.05.03-01.28.25:387][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair)
+[2020.05.03-01.28.26:338][702]Cmd: EDIT COPY
+[2020.05.03-01.28.26:698][745]Cmd: EDIT PASTE
+[2020.05.03-01.29.04:423][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_table)
+[2020.05.03-01.29.07:721][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair)
+[2020.05.03-01.29.10:206][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair2)
+[2020.05.03-01.29.13:797][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair)
+[2020.05.03-01.29.16:735][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair2)
+[2020.05.03-01.29.21:533][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair2)
+[2020.05.03-01.29.22:670][392]Cmd: EDIT COPY
+[2020.05.03-01.29.23:932][543]Cmd: EDIT PASTE
+[2020.05.03-01.29.27:677][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair)
+[2020.05.03-01.29.28:694][107]Cmd: EDIT COPY
+[2020.05.03-01.29.29:214][169]Cmd: EDIT PASTE
+[2020.05.03-01.29.35:795][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair3)
+[2020.05.03-01.29.48:413][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair4)
+[2020.05.03-01.30.22:858][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_table)
+[2020.05.03-01.30.39:693][510]LogActorFactory: Actor Factory created Cube
+[2020.05.03-01.30.41:297][682]LogActorFactory: Actor Factory created Cube
+[2020.05.03-01.31.05:305][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Modern_Office_chair3)
+[2020.05.03-01.31.12:137][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.03-01.31.28:606][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.03-01.32.03:344][ 98]LogTexture: Display: Building textures: T_Classic_Picture_n (BC5, 2048X2048)
+[2020.05.03-01.32.03:344][ 98]LogTexture: Display: Building textures: T_Classic_Picture_M_R_AO (AutoDXT, 2048X2048)
+[2020.05.03-01.32.03:344][ 98]LogTexture: Display: Building textures: T_Classic_Picture_A (AutoDXT, 2048X2048)
+[2020.05.03-01.32.03:344][ 98]LogMaterial: Display: Missing cached shader map for material M_Classic_Picture, compiling. 
+[2020.05.03-01.32.03:371][ 98]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2020.05.03-01.32.03:371][ 98]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.05.03-01.32.03:371][ 98]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.05.03-01.32.03:371][ 98]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.05.03-01.32.03:371][ 98]LogStaticMesh: Building static mesh SM_Classic_Picture...
+[2020.05.03-01.32.03:387][ 98]LogStaticMesh: Built static mesh [0.02s] /Game/FreeFurniturePack/Meshes/SM_Classic_Picture.SM_Classic_Picture
+[2020.05.03-01.32.03:416][ 98]LogActorFactory: Actor Factory created SM_Classic_Picture
+[2020.05.03-01.32.09:438][558]LogActorFactory: Actor Factory created SM_Classic_Picture
+[2020.05.03-01.33.25:056][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Classic_Picture)
+[2020.05.03-01.33.26:506][852]Cmd: DELETE
+[2020.05.03-01.33.26:506][852]Cmd: ACTOR DELETE
+[2020.05.03-01.33.26:507][852]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.03-01.33.26:529][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.05.03-01.33.26:533][852]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.05.03-01.33.27:985][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.05.03-01.33.28:002][ 17]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Small_2-4_Auto88F0E4D214C6456BD43229D8377912081.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Autosaves/Game/VirtualRealityBP/Maps/Small_2-4_Auto8.umap'
+[2020.05.03-01.33.28:004][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Small_2-4' took 0.039
+[2020.05.03-01.33.28:004][ 17]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.039
+[2020.05.03-01.33.34:845][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.05.03-01.33.34:890][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.05.03-01.33.34:901][198]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Small_2-45198404D4053BE7F7331528EA8893742.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Content/VirtualRealityBP/Maps/Small_2-4.umap'
+[2020.05.03-01.33.34:917][198]LogFileHelpers: Saving map 'Small_2-4' took 0.049
+[2020.05.03-01.33.34:929][198]AssetCheck: New page: Asset Save: Small_2-4
+[2020.05.03-01.33.34:929][198]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Small_2-4.Small_2-4
+[2020.05.03-01.34.06:098][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2020.05.03-01.34.21:814][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.05.03-01.34.21:854][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.05.03-01.34.21:866][735]LogSavePackage: Moving 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Saved/Small_2-410A9914342E22B9C5249AAB582251CE0.tmp' to 'Q:/ghost/Documents/GitHub/VR_Room/VR_Room/Content/VirtualRealityBP/Maps/Small_2-4.umap'
+[2020.05.03-01.34.21:880][735]LogFileHelpers: Saving map 'Small_2-4' took 0.044
+[2020.05.03-01.34.21:889][735]AssetCheck: New page: Asset Save: Small_2-4
+[2020.05.03-01.34.21:889][735]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/Small_2-4.Small_2-4
