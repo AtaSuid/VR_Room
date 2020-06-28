@@ -1,20 +1,20 @@
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
-D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_424_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h

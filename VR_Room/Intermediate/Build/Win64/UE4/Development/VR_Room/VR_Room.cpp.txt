@@ -1,0 +1,2 @@
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Intermediate\Build\Win64\UE4\Development\VR_Room\Definitions.VR_Room.h
+Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Source\VR_Room\VR_Room.h

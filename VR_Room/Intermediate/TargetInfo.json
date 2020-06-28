@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VR_Room",
+			"Path": "Q:\\ghost\\Documents\\GitHub\\VR_Room\\VR_Room\\Source\\VR_Room.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VR_RoomEditor",
+			"Path": "Q:\\ghost\\Documents\\GitHub\\VR_Room\\VR_Room\\Source\\VR_RoomEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

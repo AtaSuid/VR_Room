@@ -3,6 +3,13 @@
 	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "VR_Room",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"

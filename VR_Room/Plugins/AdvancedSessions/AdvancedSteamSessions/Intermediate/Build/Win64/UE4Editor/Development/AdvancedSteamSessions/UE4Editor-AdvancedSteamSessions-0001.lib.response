@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedSteamSessions-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Intermediate\Build\Win64\VR_RoomEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_AdvancedSteamSessions

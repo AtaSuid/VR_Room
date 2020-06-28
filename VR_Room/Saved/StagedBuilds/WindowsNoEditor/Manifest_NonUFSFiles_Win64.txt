@@ -1,7 +1,8 @@
-Engine/Binaries/Win64/UE4Game.exe	2020-04-20T07:26:08.997Z
+VR_Room/Binaries/Win64/VR_Room.exe	2020-06-26T05:36:31.845Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2020-04-20T07:23:21.957Z
 Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2020-04-20T07:23:01.261Z
 Engine/Binaries/ThirdParty/libsndfile/Win64/libsndfile-1.dll	2020-04-20T07:23:04.750Z
+Engine/Binaries/ThirdParty/Steamworks/Steamv146/Win64/steam_api64.dll	2020-04-20T07:23:55.038Z
 Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2020-04-20T07:23:21.963Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2020-04-20T07:23:58.692Z
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2020-04-20T07:23:58.692Z
@@ -17,4 +18,4 @@ Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_LegacyPROFILE_x64.dll	2020-0
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFrameworkPROFILE_x64.dll	2020-04-20T07:23:40.066Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvClothPROFILE_x64.dll	2020-04-20T07:23:40.764Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2020-04-20T07:23:21.985Z
-VR_Room.exe	2020-06-14T07:24:16.312Z
+VR_Room.exe	2020-06-26T06:01:23.809Z

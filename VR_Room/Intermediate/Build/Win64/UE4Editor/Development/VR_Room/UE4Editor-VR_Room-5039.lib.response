@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VR_Room-5039.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Intermediate\Build\Win64\VR_RoomEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Intermediate\Build\Win64\UE4Editor\Development\VR_Room\MyClass_forMul.cpp.obj"
+"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Intermediate\Build\Win64\UE4Editor\Development\VR_Room\VR_Room.cpp.obj"
+"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Intermediate\Build\Win64\UE4Editor\Development\VR_Room\Default.rc2.res"
+/OUT:"Q:\ghost\Documents\GitHub\VR_Room\VR_Room\Intermediate\Build\Win64\UE4Editor\Development\VR_Room\UE4Editor-VR_Room-5039.lib"
+/INCLUDE:IMPLEMENT_MODULE_VR_Room
